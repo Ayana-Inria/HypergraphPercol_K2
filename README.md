@@ -15,9 +15,13 @@ The notebook evaluates the method on two public benchmarks:
 Please refer to the notebook for detailed instructions on downloading and preprocessing each dataset before running the algorithm.
 
 ## Citation
-If you use this repository, please cite the corresponding article:
+If you use this repository, please cite it 
 
-> Louis Hauseux, Konstantin Avrachenkov & Josiane Zerubia. *Generalization of Single-Linkage with Higher-Order Interactions.* 2025+
+> Louis Hauseux (2025). *HypergraphPercol K2: Reference implementation for K=2 higher-order Single-Linkage*. https://github.com/Ayana-Inria/HypergraphPercol_K2, gitHub repository.
+
+Or the corresponding article:
+
+> Louis Hauseux, Konstantin Avrachenkov & Josiane Zerubia (2025+). *Generalization of Single-Linkage with Higher-Order Interactions.*
 
 ## License
 - Source code and executable content: licensed under the [GNU General Public License v3.0-only](https://www.gnu.org/licenses/gpl-3.0.html).
