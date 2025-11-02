@@ -15,7 +15,7 @@ The notebook evaluates the method on two public benchmarks:
 Please refer to the notebook for detailed instructions on downloading and preprocessing each dataset before running the algorithm.
 
 ## Citation
-If you use this repository, please cite it 
+If you use the code in this repository, please cite it:
 
 > Louis Hauseux (2025). *HypergraphPercol K2: Reference implementation for K=2 higher-order Single-Linkage*. https://github.com/Ayana-Inria/HypergraphPercol_K2, gitHub repository.
 
