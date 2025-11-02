@@ -9,7 +9,7 @@ The complete, executable workflow is available as a Colab notebook:
 
 ## Benchmark datasets
 The notebook evaluates the method on two public benchmarks:
-- **Olive-oil dataset** (Wickham et al., 2011), accessible as part of the `pgmm` package in the R datasets repository: [olive.csv](https://github.com/vincentarelbundock/Rdatasets/blob/master/csv/pgmm/olive.csv).
+- **Olive-oil dataset** (Wickham et al., 2011), accessible *via* this repositpry: [oliveoil.rda](https://github.com/Ayana-Inria/HypergraphPercol_K2/oliveoil.rda) or as part of the `pgmm` package in the R datasets repository: [olive.csv](https://github.com/vincentarelbundock/Rdatasets/blob/master/csv/pgmm/olive.csv).
 - **SIPU clustering benchmarks**, available through the Clustbench Python package (Gagolewski, 2022): [ClustBench project page](https://clust-bench.readthedocs.io/).
 
 Please refer to the notebook for detailed instructions on downloading and preprocessing each dataset before running the algorithm.
