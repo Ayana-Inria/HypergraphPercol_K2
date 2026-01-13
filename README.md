@@ -19,9 +19,9 @@ If you use the code in this repository, please cite it:
 
 > Louis Hauseux (2025). *HypergraphPercol K2: Reference implementation for K=2 higher-order Single-Linkage*. https://github.com/Ayana-Inria/HypergraphPercol_K2, gitHub repository.
 
-Or the corresponding article:
+For citation, refer to the following paper:
 
-> Louis Hauseux, Konstantin Avrachenkov & Josiane Zerubia (2025). *Generalization of Single-Linkage with Higher-Order Interactions.* 
+> Louis Hauseux, Konstantin Avrachenkov & Josiane Zerubia (2025). *Generalization of Single-Linkage with Higher-Order Interactions.* *Applied Network Science*
 
 ## License
 - Source code and executable content: licensed under the [GNU General Public License v3.0-only](https://www.gnu.org/licenses/gpl-3.0.html).
