@@ -1,4 +1,4 @@
-# HypergraphPercol K=2 Implementation
+# HypergraphPercol $K=2$ Implementation
 
 ## Overview
 This repository accompanies the paper *Generalization of Single-Linkage with Higher-Order Interactions* and provides the implementation of the HypergraphPercol algorithm for the special case of triangle connectivity ($K=2$). The current implementation is delivered as a Google Colab notebook that demonstrates the full experimental workflow described in the article.
@@ -21,7 +21,7 @@ If you use the code in this repository, please cite it:
 
 Or the corresponding article:
 
-> Louis Hauseux, Konstantin Avrachenkov & Josiane Zerubia (2025+). *Generalization of Single-Linkage with Higher-Order Interactions.*
+> Louis Hauseux, Konstantin Avrachenkov & Josiane Zerubia (2025). *Generalization of Single-Linkage with Higher-Order Interactions.* 
 
 ## License
 - Source code and executable content: licensed under the [GNU General Public License v3.0-only](https://www.gnu.org/licenses/gpl-3.0.html).
